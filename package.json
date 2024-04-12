@@ -2,10 +2,10 @@
   "name": "my-portfolio-2.0",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Manualliee.github.io/my-portfolio-2.0",
+  "homepage": "https://Manualliee.github.io/my-portfolio-2.0/",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run dev",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
