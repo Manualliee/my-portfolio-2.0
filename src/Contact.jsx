@@ -94,7 +94,7 @@ export function Contact() {
 
                 </div>
 
-                <form className="contact-form" action="https://formsubmit.co/mfvv98@gmail.com" method="POST" onSubmit={handleSubmit} target="_blank" >
+                <form className="contact-form" action="https://formsubmit.co/ad2c1c60459875f58704d112884a2c05" method="POST" onSubmit={handleSubmit} target="_blank" >
                     <input 
                         className="name"
                         type="text" 
