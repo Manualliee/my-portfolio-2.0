@@ -22,7 +22,7 @@ function App() {
 
             <p className='portfolio-discription'>
               Based in the US, I am a front-end developer
-              that is passionate in brining beautiful and great
+              that is passionate in bringing beautiful and great
               UI/UX layouts to life.
             </p>
 
